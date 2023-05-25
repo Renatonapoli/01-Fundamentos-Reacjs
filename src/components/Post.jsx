@@ -28,9 +28,17 @@ export function Post() {
           no NLW Return, evento da Rocketseat. O nome do projeto é DoctorCare 🚀
         </p>
 
-        <p>👉 jane.design/doctorcare</p>
+        <p>
+          👉 <a>jane.design/doctorcare</a>
+        </p>
 
-        <p>#novoprojeto #nlw #rocketseat</p>
+        <p>
+          <a href="">#novoprojeto</a>
+          <br />
+          <a href="">#nlw</a>
+          <br />
+          <a href="">#rocketseat</a>
+        </p>
       </div>
     </article>
   )
